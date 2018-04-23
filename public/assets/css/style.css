@@ -1,7 +1,12 @@
-li {
+body {
+  text-align: center;
+}
+
+
+#burgerLists {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #79a5e7;
 }
 
 .label {
@@ -16,4 +21,9 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
 }
