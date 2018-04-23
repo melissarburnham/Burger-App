@@ -1,22 +1,23 @@
 body {
   text-align: center;
+  margin-top: 30px;
+  background: rgb(68, 68, 68);
+  color: white;
 }
 
+button{
+  background: rgba(0, 0, 0, 0.418);
+  color: white;
+}
 
 #burgerLists {
   padding: 5px;
   margin: 5px;
-  background: #79a5e7;
+  background: #f80505af;
 }
 
 .label {
   font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
 }
 
 .form-group {
@@ -26,4 +27,8 @@ body {
 img {
   width: 200px;
   height: 200px;
+}
+
+#burgerForm {
+  margin-top: 50px;
 }
