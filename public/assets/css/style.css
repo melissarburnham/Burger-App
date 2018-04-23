@@ -2,6 +2,10 @@ body {
   text-align: center;
   margin-top: 30px;
   background: rgb(68, 68, 68);
+}
+
+h1, h2, button, #burgerLists,
+h4, label {
   color: white;
 }
 
