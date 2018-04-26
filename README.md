@@ -10,5 +10,9 @@ Users can log desired burgers and indicate whether they have been devoured. Once
 ## Technologies Used
 MySQL,Node, Express, Handlebars, homemade ORM, JavaScript, CSS, MVC design
 
+## Demo
+
+![survey](https://github.com/melissarburnham/FriendFinder/blob/master/app/public/assets/images/Screen%20Shot%202018-04-21%20at%2010.45.48%20AM.png "survey")
+
 
 
