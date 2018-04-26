@@ -6,7 +6,7 @@ var connection;
 
 
 
-if(process.emitWarning.JAWSDB_URL){
+if(process.env.JAWSDB_URL){
   connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
   var connection = mysql.createConnection({
