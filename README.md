@@ -1,6 +1,6 @@
 # Eat-da-Burger
 
-Check out a live version of this site [here](https://fierce-river-44438.herokuapp.com/)
+Check out a live version of this site [here](https://fierce-river-44438.herokuapp.com/)!
 
 ## Description
 This application demonstrates a full-stack development using MVC design. 
